@@ -1,0 +1,17 @@
+buttons.primary {
+  color: #f4f4f4;
+  background-color: #0e6cff;
+}
+buttons.warning {
+  color: #f4f4f4;
+  background-color: #ff8700;
+}
+buttons.success {
+  color: #f4f4f4;
+  background-color: #4caf50;
+}
+
+.hero {
+  color: #f4f4f4;
+  background-color: #640fc5;
+}/*# sourceMappingURL=style.css.map */
